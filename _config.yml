@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Saadet Fatma Baltaci Demir"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
+  avatar           : "profile.jpg"
+  bio              : "Doctoral researcher"
+  location         : "Stuttgart, Germany"
+  employer         : "Max-Planck Institute for Intelligent Systems"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=Jze7AXAAAAAJ&hl=en"
+  email            : "baltaci@is.mpg.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "saadetbaltaci"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "saadet-baltaci-30775477"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
