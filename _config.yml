@@ -84,7 +84,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Doctoral researcher"
   location         : "Stuttgart, Germany"
-  employer         : "Max-Planck Institute for Intelligent Systems"
+  employer         : 
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Jze7AXAAAAAJ&hl=en"
   email            : "baltaci@is.mpg.de"
